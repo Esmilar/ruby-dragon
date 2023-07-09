@@ -2,7 +2,7 @@
 All notable changes to Ruby Dragon will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+[and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).](https://github.com/goatshriek/ruby-dragon/blob/06e7fb3276ecb905bdc326b35ed2f05dd5c672e6/CHANGELOG.md)
 
 
 ## [2.3.0] - 2023-06-04
